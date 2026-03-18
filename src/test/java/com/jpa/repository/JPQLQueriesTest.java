@@ -20,5 +20,6 @@ void findByNameOrDescriptionJPQLNameParamMethod(){
     Product product = productRepositroy.findByNameOrDescriptionJPQLNamedParam("product1", "I am product 1");
     System.out.println(product.getId());
     System.out.println(product.getName());
+    /* System.out.println(product.getName()); */
 }
 }
