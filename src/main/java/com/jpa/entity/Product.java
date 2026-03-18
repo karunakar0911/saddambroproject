@@ -147,6 +147,6 @@ public class Product {
                 ", imageUrl='" + imageUrl + '\'' +
                 ", dateCreated=" + dateCreated +
                 ", lastUpdated=" + lastUpdated +
-                '}';
+                '}';// code is correct
     }
 }
